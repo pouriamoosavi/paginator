@@ -1,0 +1,2 @@
+# paginator
+light js paginator
