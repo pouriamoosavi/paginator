@@ -44,7 +44,7 @@ paginator.destroy({
 |`selector`   | yes     |-      |string  |must selects a dom element. make sure the element exists (the document is loaded and ready)|
 
 ## output
-
+![Alt text](example2.png?raw=true "preview")
 
 ## Contributing
 Pull requests are welcome and I would be happy if you try to make this library more usable. 
